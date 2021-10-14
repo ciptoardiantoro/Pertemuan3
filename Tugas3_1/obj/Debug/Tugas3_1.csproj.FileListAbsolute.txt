@@ -1,0 +1,10 @@
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\Tugas3_1\Tugas3_1\bin\Debug\Tugas3_1.exe.config
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\Tugas3_1\Tugas3_1\bin\Debug\Tugas3_1.exe
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\Tugas3_1\Tugas3_1\bin\Debug\Tugas3_1.pdb
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\Tugas3_1\Tugas3_1\obj\Debug\Tugas3_1.csprojAssemblyReference.cache
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\Tugas3_1\Tugas3_1\obj\Debug\Tugas3_1.frmTugas32.resources
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\Tugas3_1\Tugas3_1\obj\Debug\Tugas3_1.Properties.Resources.resources
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\Tugas3_1\Tugas3_1\obj\Debug\Tugas3_1.csproj.GenerateResource.cache
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\Tugas3_1\Tugas3_1\obj\Debug\Tugas3_1.csproj.CoreCompileInputs.cache
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\Tugas3_1\Tugas3_1\obj\Debug\Tugas3_1.exe
+D:\JADWAL KULIAH SEMESTER 3\PEMOGRAMAN LANJUT\Tugas3_1\Tugas3_1\obj\Debug\Tugas3_1.pdb
